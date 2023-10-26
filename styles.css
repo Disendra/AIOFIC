@@ -1,0 +1,184 @@
+.header-tag {
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.navbar img {
+    max-height: 50px;
+    margin-right: 10px;
+    border-radius: 63px;
+}
+
+/* styles.css */
+
+.centered-h2 {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    transform: translateY(-50%);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.full-width-image {
+    width: 100%;
+    margin-top: 78px;
+    height: auto;
+    filter: brightness(0.3);
+}
+
+@media (max-width: 767px) {
+    .navbar-toggler {
+        background-color: #fff;
+    }
+
+    .navbar-nav {
+        background-color: #fff;
+        max-width: 106px;
+        margin-left: auto;
+        background-color: black;
+        text-align: center;
+    }
+
+
+
+
+}
+
+.footer-icon {
+    color: orange;
+}
+
+.text-light {
+    font-size: 24px;
+    margin-left: 10px;
+}
+
+.footer-container {
+    width: 99%;
+    margin: 0;
+    margin-top: 13px;
+}
+
+.membership-details {
+    font-size: 24px;
+    color: royalblue;
+    margin-right: 10px;
+}
+
+
+.header-Name {
+    color: white;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+/* .about-Image {
+    width: 74%;
+    height: 470px;
+    margin-left: 943px;
+}
+
+.about-ImageContent {
+    text-align: justify;
+    line-height: 1.6;
+    font-size: 18px;
+    width: 45%;
+    margin: 0px -28px 0px -586px;
+} */
+
+.about-Image {
+    width: 53%;
+    height: 500px;
+    margin-left: 25%;
+}
+
+.about-ImageContent {
+    width: 100%;
+    text-align: justify;
+    line-height: 1.6;
+    font-size: 19px;
+    margin-top: 13px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.certificate-Details {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold
+}
+
+.about-us {
+    color: #065598;
+    text-align: center;
+}
+
+.footer-Description {
+    width: 75px;
+    height: 75px;
+}
+
+/*Social Media Icons */
+
+
+.bi-twitter {
+    color: #55ACEE;
+    ;
+}
+
+.bi-facebook {
+    color: #3B5998;
+}
+
+.bi-instagram {
+    color: #125688;
+}
+
+.bi-linkedin {
+    color: #007bb5;
+}
+
+.services-ImageContent {
+    margin: 20px 0px 49px -183px;
+    text-align: justify;
+    line-height: 1.6;
+    font-size: 19px;
+}
+
+.services-Image {
+    height: 400px;
+    margin-left: 187px;
+}
+
+.services-leftImage {
+    height: 400px;
+    margin-left: -186px;
+}
+
+.image-content {
+    width: 100%;
+    text-align: justify;
+    line-height: 1.6;
+    font-size: 18px;
+}
+
+.service-header {
+    text-align: center;
+    margin-top: -37px;
+    color: #065598
+}
+
+.profile-image {
+height: 100px;
+    width: 100px;
+    border-radius: 92px;
+}
